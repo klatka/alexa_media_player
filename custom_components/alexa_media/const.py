@@ -145,7 +145,7 @@ ALEXA_ICON_CONVERSION = {
     "Alexa.AirQuality.Humidity": "mdi:water-percent",
     "Alexa.AirQuality.IndoorAirQuality": "mdi:numeric",
     "Alexa.AirQuality.ParticulateMatter": "mdi:blur",
-    "Alexa.AirQuality.VolatileOrganicCompounds": "mdi:chemical-weapon",
+    "Alexa.AirQuality.VolatileOrganicCompounds": "mdi:air-filter",
 }
 ALEXA_ICON_DEFAULT = "mdi:molecule"
 
